@@ -15,7 +15,8 @@ Real-Life Example: Building an Online Store
 
 
 
-Key Concepts
+Key Concepts:
+
     API: Think of an API as a waiter in a restaurant who listens to your request and brings you back the data you asked for.
 
     Endpoint: Each thing the API can do is called an endpoint. For example, there is an endpoint to list all products, an endpoint to get product details, and an endpoint to place an order.
@@ -27,7 +28,8 @@ Key Concepts
 
 
 
-Why FastAPI is Useful
+Why FastAPI is Useful:
+
     Super Fast: It’s built to be fast and handle many requests quickly, even when your website becomes popular.
 
     Easy to Understand: It uses simple Python code. You don’t need to learn a lot of complex things to get started.
@@ -36,4 +38,5 @@ Why FastAPI is Useful
 
 
 Summary:
+
     FastAPI is a tool that helps you build APIs quickly. It takes care of the hard parts like handling requests and making sure data is correct, while you focus on what your API should do. It’s like having a super-fast, smart waiter who makes sure the customer gets exactly what they asked for!
